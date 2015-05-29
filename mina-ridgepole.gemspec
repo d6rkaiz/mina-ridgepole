@@ -19,7 +19,7 @@ Gem::Specification.new do |spec|
   spec.require_paths = ['lib']
 
   spec.add_dependency 'mina'
-  spec.add_dependency 'ridgepole', '~> 0.4.10'
+  spec.add_dependency 'ridgepole', '~> 0.6.0'
   spec.add_development_dependency 'bundler'
   spec.add_development_dependency 'rake'
 end
