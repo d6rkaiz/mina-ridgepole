@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ['d6rkaiz@gmail.com']
   spec.description   = %q{Ridgepole tasks for Mina}
   spec.summary       = %q{Ridgepole tasks for Mina}
-  spec.homepage      = 'http://d6rkaiz.com'
+  spec.homepage      = 'https://github.com/d6rkaiz/mina-ridgepole'
   spec.license       = 'MIT'
 
   spec.files         = `git ls-files`.split($/)
